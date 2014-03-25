@@ -19,7 +19,6 @@ shortdesc: "GECOS v2 meta package with the GECOS icon theme."
 # DescipciÃ³n larga, las lineas han de estar separadas por "\n "
 longdesc: "GECOS v2 meta package with the GECOS icon theme based on Gion theme"
 
-
 # VersiÃ³n del paquete
 version: 2.0
 
